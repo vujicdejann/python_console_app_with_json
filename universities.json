@@ -1,0 +1,32 @@
+[
+    {
+        "pib": "01",
+        "university": "Univerzitet Singidunum",
+        "faculty": "Fakultet zdravstvenih i poslovnih studija",
+        "address": "Železnička 5, Valjevo"
+    },
+    {
+        "pib": "02",
+        "university": "Univerzitet Singidunum",
+        "faculty": "Tehnicki fakultet",
+        "address": "Bulevar Peka Dapčevića 47a, Beograd"
+    },
+    {
+        "pib": "04",
+        "university": "Univerzitet Singidunum",
+        "faculty": "Fakultet za informatiku i racunarstvo",
+        "address": "Bulevar Peka Dapčevića 47a, Beogra"
+    },
+    {
+        "pib": "04",
+        "university": "Univerzitet Singidunum",
+        "faculty": "Poslovni fakultet u Beogradu",
+        "address": "Bulevar Peka Dapčevića 47a, Beograd"
+    },
+    {
+        "pib": "05",
+        "university": "Univerzitet Singidunum",
+        "faculty": "Fakultet za medije i komunikacije",
+        "address": "Karađorđeva 65, Beograd"
+    }
+]
