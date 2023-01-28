@@ -1,1 +1,1 @@
-# ispitni-projekat-python-programiranje
+# python_console_app_with_json
